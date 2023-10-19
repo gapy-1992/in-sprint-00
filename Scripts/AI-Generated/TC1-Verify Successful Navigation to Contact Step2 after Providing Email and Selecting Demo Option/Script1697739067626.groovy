@@ -87,7 +87,7 @@ WebUI.enhancedClick(testObj)
 
 'step 7: Add visual checkpoint at Page contact step2'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Navigation to Contact Step2 after providing Email and selecting Demo Option_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Navigation to Contact Step2 after Providing Email and Selecting Demo Option_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

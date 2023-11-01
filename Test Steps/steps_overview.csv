@@ -1,5 +1,5 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Successful Navigation to Contact Step2 after Providing Contact Email,"step 1: Navigate to Page contact step1
+1,Verify Successful Navigation to Contact Step2 after Providing Contact Email and Selecting Demo Option,"step 1: Navigate to Page contact step1
 step 2: At Page contact step1 input on input contact email
 step 3: At Page contact step1 click on input combo box demo
 step 4: At Page contact step1 click on li combo box demo option 2
